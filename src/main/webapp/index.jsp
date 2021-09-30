@@ -2,7 +2,7 @@
 <body>
   <style>
   h3{
-background-color: coral;    }
+background-color: green;    }
   
   </style>
 <h2>Hello World! Welcome to Jenkins Tomcat Web App</h2>
