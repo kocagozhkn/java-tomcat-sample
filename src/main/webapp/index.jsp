@@ -12,6 +12,8 @@ background-color: green;    }
     <h3> Hello .... </h3>
       <h3>.... Privet .... </h3>
   <h2>last of us</h2>
+	<a href="http://www.shorter.in/#flag" target="_blank"><img src="http://shorter.in/flag.php"></a>
+
   <canvas id="gc" width="640" height="480"></canvas>
 
 <script>
